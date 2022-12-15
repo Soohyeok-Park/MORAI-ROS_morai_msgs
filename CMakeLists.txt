@@ -64,6 +64,7 @@ find_package(catkin REQUIRED COMPONENTS
    PRStatus.msg
    PRCtrlCmd.msg
    PREvent.msg
+   ShipCtrlCmd.msg
  )
 
  add_service_files(
