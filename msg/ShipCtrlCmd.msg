@@ -1,2 +1,2 @@
-float64 thruster
+float64 thrust
 float64 rudder
